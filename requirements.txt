@@ -1,0 +1,9 @@
+aiohttp
+aiohttp-jinja2
+python-dotenv
+peewee
+peewee-async
+bcrypt
+jinja2
+pyjwt
+aiopg
