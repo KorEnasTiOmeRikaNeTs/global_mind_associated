@@ -26,7 +26,7 @@ test task for global mind associated
 
 4. **Set up environment variables:**
 
-    Create a `.env` file in the root directory of the project and add variables:
+    Create a `.env` file in the root directory of the project and add variables
 
 
 5. **Build and run Docker containers:**
